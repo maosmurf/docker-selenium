@@ -1,4 +1,4 @@
-# docker-oracle-jdk
+# docker maosmurf/oracle-jdk
 
 Java Oracle JDK 6 on Ubuntu 14.04  
 

@@ -1,4 +1,4 @@
-# docker-selenium-chrome
+# docker maosmurf/selenium-chrome
 
 Chromedriver 2.11 with xvfb (on startup)
 
