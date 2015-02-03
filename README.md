@@ -5,9 +5,9 @@ Please see also my [dockerhub](https://hub.docker.com/u/maosmurf/) repositories
 
 # Content
 
-* [maosmurf/oracle-jdk](../oracle-jdk)
-* [maosmurf/maven-3](../maven-3)
-* [maosmurf/selenium-chrome](../selenium-chrome)
+* [maosmurf/oracle-jdk](oracle-jdk)
+* [maosmurf/maven-3](maven-3)
+* [maosmurf/selenium-chrome](selenium-chrome)
 
 # License
 
