@@ -23,4 +23,7 @@ Details
 
 * `git clone https://github.com/maosmurf/selenium-chrome-test` clone [demo app](https://github.com/maosmurf/selenium-chrome-test)
 * `-v ${TEST_APP_DIR}:/selenium-chrome-test` mount demo application from outside container to avoid clutter
-* `-v ~/.m2:/root/.m2` optioinally, mount your local maven folder to reuse repository and settings
+* `-v ~/.m2:/root/.m2` optioinally, mount your local maven folder to reuse repository and settings  
+* `maosmurf/selenium-chrome` name of this image  
+* `sh -l -c '<command>'` execute `<command>` in container; must add `-l` to simulate login shell, 
+in order to read `/root/.profile` and start `xvfb`  
